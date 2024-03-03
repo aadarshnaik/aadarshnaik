@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aadarshnaik
-- 👀 I’m interested in app and web development
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on app development
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently exploring Golang
+- 💞️ I’m looking to collaborate on software development
 - 📫 reach me at aadarshnaik6@gmail.com
 
 <!---
