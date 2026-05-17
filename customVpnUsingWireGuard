@@ -2,7 +2,7 @@ Using a AWS Instance as VPN using WireGuard
 
 1. Setup an AWS Instance with UDP port 51820 (WireGuard) and SSH port 22 Open in Security Group
 2. 
-sudo apt update && sudo apt install -y wireguard
+sudo dnf install -y wireguard-tools
 # Server keys
 wg genkey | sudo tee /etc/wireguard/server_private.key | wg pubkey | sudo tee /etc/wireguard/server_public.key
 
